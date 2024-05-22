@@ -1,0 +1,19 @@
+.a_square {
+  width: 18px;
+  height: 18px;
+  margin : 1px;
+  background-color: #ffedff;
+  display: inline-block;
+}
+
+.a_snake {
+  background-color: red;
+}
+
+.a_row {
+
+}
+
+.has_food {
+  background-color: blue;
+}
